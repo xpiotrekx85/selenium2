@@ -1,0 +1,17 @@
+[33mcommit c9dd3806d05423452b7f31dd58635c5292d3ed5f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: xpiotrekx85 <oprzala@gmail.com>
+Date:   Sat Oct 19 15:35:18 2024 +0200
+
+    first commit
+
+[33mcommit da50d6fc34ce3716b64598724622fcf9ee819250[m
+Author: xpiotrekx85 <oprzala@gmail.com>
+Date:   Sat Oct 19 15:32:07 2024 +0200
+
+    first commit
+
+[33mcommit 7797e91b948b054ffa74f640a1a469d0a627d901[m[33m ([m[1;34mgrafted[m[33m, [m[1;33mtag: [m[1;33mv6.5[m[33m)[m
+Author: Ela Sądel <ela@testelka.pl>
+Date:   Wed Sep 4 18:18:56 2024 +0200
+
+    Podniesienie wersji Selenium i JUnita.
